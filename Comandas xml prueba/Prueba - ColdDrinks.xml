@@ -1,0 +1,17 @@
+<cafe_order>
+	<order_id>4</order_id>
+	<drinks>
+		<drink>
+			<name>cola</name>
+			<type>cold</type>
+		</drink>
+		<drink>
+			<name>fanta</name>
+			<type>cold</type>
+		</drink>
+		<drink>
+			<name>agua</name>
+			<type>cold</type>
+		</drink>
+	</drinks>
+</cafe_order>
